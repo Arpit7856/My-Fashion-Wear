@@ -1,0 +1,1 @@
+My Fashion Wear is a web application that allows users to virtually try clothes using digital visualization before purchasing it. The platform helps users to see how different outfits looks on them without physically wearing them, making online fashion selection easier and more interactive.
